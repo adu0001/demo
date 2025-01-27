@@ -42,7 +42,7 @@ release {
 	pushReleaseVersionBranch = null
 
 	git {
-		requireBranch.set("main")
+		requireBranch.set("master")
 		pushToRemote.set("origin")
 		pushToBranchPrefix.set("")
 		commitVersionFileOnly.set(false)
