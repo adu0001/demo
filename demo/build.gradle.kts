@@ -47,6 +47,7 @@ release {
 		pushToBranchPrefix.set("")
 		commitVersionFileOnly.set(false)
 		signTag.set(false)
+
 	}
 }
 
